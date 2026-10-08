@@ -22,3 +22,7 @@ We will only claim evidence we can show. We will verify every AI claim.
 | Day | Stone | What we built                       | Evidence link                                                  |
 | --- | ----- | ----------------------------------- | -------------------------------------------------------------- |
 | 1   |      | Earth HQ site, touchpoint inventory | https://sites.google.com/lead.ac.in/earth-1048uber?usp=sharing |
+
+
+
+ (I, Akhil Francis, will only claim evidence I can show)
